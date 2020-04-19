@@ -2,16 +2,16 @@
     {
         "content": "첫 번째 피드",
         "like": 3,
-        "image": "https://raw.githubusercontent.com/kwonl-kusitms/api-for-assignment/master/sample1.jpeg"
+        "image": "https://raw.githubusercontent.com/kwonl-kusitms/api-for-assignment/master/food1.jpeg"
     },
     {
-        "content": "첫 번째 피드",
+        "content": "두 번째 피드",
         "like": 4,
-        "image": "https://raw.githubusercontent.com/kwonl-kusitms/api-for-assignment/master/sample2.jpeg"
+        "image": "https://raw.githubusercontent.com/kwonl-kusitms/api-for-assignment/master/food2.jpeg"
     },
     {
         "content": "첫 번째 피드",
         "like": 5,
-        "image": "https://raw.githubusercontent.com/kwonl-kusitms/api-for-assignment/master/sample3.jpeg"
+        "image": "https://raw.githubusercontent.com/kwonl-kusitms/api-for-assignment/master/food3.jpeg"
     }
 ]
